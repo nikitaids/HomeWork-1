@@ -34,6 +34,7 @@ export const HW1 = () => {
 
 	return (
 		<div id={'hw01'}>
+			<h1>Homework-1</h1>
 			{<UserList users={users} />}
 		</div>
 	);

@@ -54,6 +54,7 @@ export const HW2 = () => {
 
   return (
     <div id={'hw02'}>
+      <h1>Homework-2</h1>
       <UserList2 users={currentUsers} filterUsers={filterUsers} />
     </div>
   );
